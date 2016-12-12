@@ -70,6 +70,7 @@ function tubeClamp(tubediameter, thickness, distance, open, wing, lid, lidcleara
 
     this.units = makerjs.unitType.Inch;
     this.origin = [0, -cy];
+    
 };
 
 tubeClamp.metaParameters = [
